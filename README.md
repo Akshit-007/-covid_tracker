@@ -10,6 +10,15 @@ For installing all packages and dependencies run -
 
 npm install
 
+## Information
+
+Dummy Credential
+
+Username : admin\
+Password : password
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
