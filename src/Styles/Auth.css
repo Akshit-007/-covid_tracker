@@ -1,0 +1,38 @@
+.form {
+
+    margin: auto;
+    width: 300px;
+    /* background-color: red; */
+    border: 1px solid rgb(210 210 210);
+    /* box-shadow: 10px 10px 10px 10px black; */
+    padding: 10px;
+
+}
+
+.blank {
+    height: 100px;
+}
+
+.form_heading {
+    text-align: center;
+    font-size: 20px;
+}
+
+.form_info {
+    margin: auto;
+    width: 180px;
+}
+
+.auth_btn {
+    background-color: #e8e8ff;
+    border: none;
+    font-size: 15px;
+    padding: 10px;
+    /* color: white; */
+}
+
+.auth_btn:hover {
+    cursor: pointer;
+    background-color: white;
+    border: 1px solid #a4a4fd;
+}

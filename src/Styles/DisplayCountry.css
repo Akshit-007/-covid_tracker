@@ -1,0 +1,34 @@
+.Bar_style {
+    width: 800px;
+    margin: auto;
+}
+
+.country_heading {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.country_data {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.country_card {
+    padding-top: 50px;
+    font-size: 20px;
+    width: 300px;
+    background-color: #e8e8ff;
+    margin: 10px;
+    text-align: center;
+    height: 100px;
+    box-shadow: -3px 5px 24px -16px black;
+}
+
+.instruction {
+    margin: auto;
+    text-align: center;
+    max-width: 700px;
+    background-color: #e8e8ff;
+}

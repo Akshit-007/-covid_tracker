@@ -1,0 +1,72 @@
+.display_body {
+    background-color: #e8e8ff;
+}
+
+.table_main {
+    width: 99%;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.table_heading {
+    width: 99%;
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.table_head_row {
+    /* border: 1px solid black; */
+    background-color: white;
+    height: 40px;
+    width: 100px;
+}
+
+.table_row {
+    background-color: white;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.global_data {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.data_card {
+    width: 300px;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+}
+
+.btn_search {
+    background-color: white;
+    /* padding: 8px; */
+    border: 1px solid rgb(152, 152, 243);
+    color: rgb(152, 152, 243);
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.btn_search:hover {
+    cursor: pointer;
+
+}
+
+.search_country {
+    padding-left: 10px;
+}
+
+.input_val {
+    height: 35px;
+}
+
+.input_val:focus {
+    outline: none;
+}

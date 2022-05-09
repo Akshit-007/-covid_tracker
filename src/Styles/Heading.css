@@ -1,0 +1,9 @@
+.main_heading {
+    background-color: #e8e8ff;
+    font-size: 30px;
+    color: #4c4cb5;
+    text-align: center;
+    height: 60px;
+    padding-top: 20px;
+    /* border-bottom: 1px solid black; */
+}
