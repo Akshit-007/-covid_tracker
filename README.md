@@ -2,13 +2,13 @@
 
 To create React Project run -
 
-npx create-react-app my-app
-cd my-app
-npm start
+npx create-react-app my-app\
+cd my-app\
+npm start\
 
 For installing all packages and dependencies run -
 
-npm install
+npm install\
 
 ## Available Scripts
 
